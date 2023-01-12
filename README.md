@@ -1,6 +1,6 @@
 This project utilizes the scikit-learn library to predict house prices based on various features such as square footage, number of bedrooms, location, and more.
 
-The dataset used for this project was obtained from [source]. The data was cleaned and preprocessed before being used for training and testing the model. The model was trained using a variety of techniques such as linear regression and decision tree algorithms.
+The dataset used for this project was obtained from kaggle . The data was cleaned and preprocessed before being used for training and testing the model. The model was trained using a variety of techniques such as linear regression and decision tree algorithms.
 
 In this project, I have applied several feature engineering techniques to improve the performance of the model, such as normalizing the data and adding new features based on the existing ones.
 
